@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "connections": [
+  "connections1": [
     { "id": 1, "name": "Super Gear store 1", "domain": "supergear1.mymagento.com","app_name":"My Magento app 1", "authenticated":true },
     { "id": 2, "name": "Super Gear store 2", "domain": "supergear2.mymagento.com","app_name":"My Magento app 2", "authenticated":true},
     { "id": 3, "name": "Super Gear store 3", "domain": "supergear3.mymagento.com","app_name":"My Magento app 3", "authenticated":true}
