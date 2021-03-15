@@ -29,36 +29,7 @@
 	"account": {
 		"accountId": "970523de9a773315ff62b757e8de9c0bac95b3438e38809a7b0ffd5e5e8ce426"
 	},
-	"connections": [{
-			"id": 1,
-			"name": "Super Gear store 1",
-			"domain": "supergear1.mymagento.com",
-			"app_name": "My Magento app 1",
-			"authenticated": "Not Authenticated",
-			"status": "Inactive",
-			"platform": "Affiliate",
-			"integration": "v1.0"
-		},
-		{
-			"id": 2,
-			"name": "Super Gear store 2",
-			"domain": "supergear2.mymagento.com",
-			"app_name": "My Magento app 2",
-			"authenticated": "Authenticated",
-			"status": "Inactive",
-			"platform": "Affiliate",
-			"integration": "v1.0"
-		},
-		{
-			"id": 3,
-			"name": "Super Gear store 3",
-			"domain": "supergear3.mymagento.com",
-			"app_name": "My Magento app 3",
-			"authenticated": "Not Authenticated",
-			"status": "Active",
-			"platform": "Affiliate",
-			"integration": "v1.0"
-		}
+	"connections": [
 	]
 
 }
