@@ -35,7 +35,9 @@
 			"domain": "supergear1.mymagento.com",
 			"app_name": "My Magento app 1",
 			"authenticated": "Not Authenticated",
-			"status": "Not Authenticated"
+			"status": "Not Authenticated",
+			"platform": "Affiliate",
+			"integration": "v1.0"
 		},
 		{
 			"id": 2,
@@ -43,7 +45,9 @@
 			"domain": "supergear2.mymagento.com",
 			"app_name": "My Magento app 2",
 			"authenticated": "Authenticated",
-			"status": "Authenticated"
+			"status": "Authenticated",
+			"platform": "Affiliate",
+			"integration": "v1.0"
 		},
 		{
 			"id": 3,
@@ -51,7 +55,9 @@
 			"domain": "supergear3.mymagento.com",
 			"app_name": "My Magento app 3",
 			"authenticated": "Not Authenticated",
-			"status": "Not Authenticated"
+			"status": "Not Authenticated",
+			"platform": "Affiliate",
+			"integration": "v1.0"
 		}
 	]
 
